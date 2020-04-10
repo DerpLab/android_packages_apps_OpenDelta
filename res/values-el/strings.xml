@@ -84,6 +84,6 @@
     <string name="clean_files_feedback">"Διαγράφηκαν %d αρχεία(ο). Τώρα πατήστε 'Έλεγχος για ενημερώσεις"</string>
     <string name="clear_files_summary">Διαγραφή υπάρχοντος αρχείου ενημέρωσης, για επιβολή λήψης νέου</string>
     <string name="auto_download_title">Ενέργεια χρονοδιαγ/τος</string>
-	<string name="button_reboot_short">Επανεκίνηση</string>
+    <string name="button_reboot_short">Επανεκίνηση</string>
     <string name="menu_changelog">Αλλαγές</string>
 </resources>
